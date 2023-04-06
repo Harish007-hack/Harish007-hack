@@ -1,7 +1,6 @@
 <h1 align="center">Hello , I'm Harish Narayana G!👋</h1>
-<h3 align="center">5 ⭐ Hackerrank(Python) || 3 ⭐ Hackerrank(C++) || Enthusiastic Coder || Web Developer 💻 ||12 grade student at PSBBM Coimbatore</h3>
+<h3 align="center">5 ⭐ Hackerrank(Python) || 4 ⭐ Hackerrank(C++) || Enthusiastic Coder || Web Developer 💻 </h3>
 
-- 🏫 I’m currently studing 12 grade at PSBB Millennium School, Coimbatore
 - 🔭 I’m currently learning Cybersecurity, Python, C++ and Web Development `
 - ⚡ Fun fact: I Love coding !
 - https://linktr.ee/HarishNarayana
