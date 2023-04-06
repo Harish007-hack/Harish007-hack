@@ -9,7 +9,7 @@
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/harish-narayana-868554217/" target="blank"><img align="center" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="Harish Narayana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harish-narayana-868554217/" target="blank"><img align="center" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="Harish Narayana" height="30" width="40" style="background-color: #fff;" /></a>
 
 <a href="https://www.instagram.com/harish_narayana_/?hl=en" target="blank"><img align="center" src="(https://user-images.githubusercontent.com/63545094/230439668-3b14d3fa-d8ca-4959-b690-97744490e9d4.svg)" alt="Harish Narayana" height="30" width="40" /></a>
 
