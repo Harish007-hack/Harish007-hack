@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/harish-narayana-868554217/" target="blank"><img align="center" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="Harish Narayana" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/harish_narayana_/?hl=en" target="blank"><img align="center" src="(https://thumbs.dreamstime.com/b/insta-new-155631943.jpg)" alt="Harish Narayana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harish_narayana_/?hl=en" target="blank"><img align="center" src="[(https://thumbs.dreamstime.com/b/insta-new-155631943.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw0se6fyhnjprBhlI__S4_CN&ust=1680884710625000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKiGqNPVlf4CFQAAAAAdAAAAABAD)" alt="Harish Narayana" height="30" width="40" /></a>
 
 <a href="https://www.codechef.com/users/iamharish_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harish_17" height="30" width="40" /></a>
 
